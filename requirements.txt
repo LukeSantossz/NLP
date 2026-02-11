@@ -1,0 +1,31 @@
+# Core NLP & Deep Learning
+transformers
+datasets
+tokenizers
+accelerate
+huggingface_hub
+torch
+pandas
+numpy
+
+# Avaliação e Métricas
+scikit-learn
+seqeval
+nltk
+sacrebleu
+rouge-score
+
+# Visualização e Utilidades
+matplotlib
+ipywidgets
+tqdm
+psutil
+bertviz
+
+# Tarefas Específicas (Sumarização, Áudio, Otimização)
+sentencepiece
+py7zr
+nlpaug
+librosa
+onnxruntime
+optuna
